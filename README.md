@@ -1,2 +1,2 @@
-# Play-Framework-Essentials
-《Play-Framework-Essentials》中文翻译
+# Play-Document-Translation
+Play!Framework 官方文档中文翻译
