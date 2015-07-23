@@ -4,7 +4,7 @@
 
 ###快速开始
 
-1. 下载最新的[https://typesafe.com/get-started](Typesafe	 Activator).
+1. 下载最新的[Typesafe	 Activator](https://typesafe.com/get-started).
 2. 将下载的归档文件解压缩到一个你有可写权限的目录
 3. 通过命令 cd activator* (或者文件管理器) 切换目录
 4. 通过命令 activator ui (或者文件管理器) 启动
@@ -33,9 +33,9 @@
 	java -version
 	javac -version
 如果你还未安装JDK，你就得先安装它：
-1. 对于 MacOS ，已经内置了Java，但是你最好把它[http://www.oracle.com/technetwork/java/javase/downloads/index.html](更新到最新版本)。
+1. 对于 MacOS ，已经内置了Java，但是你最好把它[更新到最新版本](http://www.oracle.com/technetwork/java/javase/downloads/index.html)。
 2. 对于 Linux ，用最新的 Oracle JDK 或者 OpenJDK 都行(切记不要使用 gcj )
-3. 对于 Windows， 直接下载安装最新的[http://www.oracle.com/technetwork/java/javase/downloads/index.html]( JDK 安装包)即可
+3. 对于 Windows， 直接下载安装最新的[JDK 安装包](http://www.oracle.com/technetwork/java/javase/downloads/index.html)即可
 
 ####添加环境变量
 方便起见，你需要把 Activator 的安装目录添加的系统环境变量 path 中。
