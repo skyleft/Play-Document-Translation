@@ -21,4 +21,6 @@ Play 框架提供了一个命令来简化 Eclipse 的配置。要把一个 Play 
 	EclipseKeys.skipParents in ThisBuild := false
 或者在 play 控制台输入
 	[my-first-app] $ eclipse skip-parents=false
-然后你就可以通过 Eclipse 的 Import 功能来导入项目了
+然后你就可以通过 Eclipse 的 Import 功能来导入项目了。
+![Eclipse](../assets/eclipse.png)
+
