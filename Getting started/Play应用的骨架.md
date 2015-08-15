@@ -1,6 +1,6 @@
 ###Play应用的布局
 Play应用的布局是以尽可能保持简单作为第一准则的，创建应用并且第一次编译成功后，一个play应用的结构大体上是这样的：
-[Play应用结构](!../assets/applayout.png)
+![Play应用结构](../assets/applayout.png)
 
 ###app/目录
 *app*目录包含了所有可执行的构件：Java和Scala源代码，模板，和编译过的资源文件。
